@@ -6,5 +6,5 @@
     "default": 10,
     "max": 50
   },
-  "mysql": "mysql://root:@localhost:3306/remedios_nota"
+  "mysql": "mysql://8vYkGAyjJg:ZtPp5VyIOq@remotemysql.com:3306/8vYkGAyjJg"
 }
