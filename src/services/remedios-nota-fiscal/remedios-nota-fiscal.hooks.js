@@ -10,8 +10,12 @@ module.exports = {
     create(context) {
       return remediosCrawler(context)
     },
-    update: [],//remediosCrawler()],
-    patch: [],//remediosCrawler()],
+    update(context) {
+      return remediosCrawler(context)
+    },
+    patch(context) {
+      return remediosCrawler(context)
+    },
     remove: []
   },
 
